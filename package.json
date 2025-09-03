@@ -17,11 +17,11 @@
     "url": "https://github.com/LimaAlysson/clone_disneyplus/issues"
   },
   "homepage": "https://github.com/LimaAlysson/clone_disneyplus#readme",
-  "description": "",
   "devDependencies": {
-    "gulp": "^5.0.0",
+    "gulp": "^5.0.1",
     "gulp-clean-css": "^4.3.0",
     "gulp-sass": "^6.0.1",
-    "sass": "^1.86.3"
-  }
+    "sass": "^1.92.0"
+  },
+  "description": ""
 }
